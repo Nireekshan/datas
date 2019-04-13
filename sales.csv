@@ -1,0 +1,8 @@
+Customer_id,mail_id,Txn_Id,Product_Name,Product_Cost
+1,nirekshan@gmail.com,txn01,Samsung,10000
+2,mohan@gmail.com,txn02,iPhone,20000
+3,nokiafan@gmail.com,txn03,Nokia,1000
+4,prasad@gmail.com,txn04,hTC,5000
+1,nirekshan@gmail.com,txn05,Samsung,10000
+5,praveen@gmail.com,txn06,iPhone,30000
+4,prasad@gmail.com,txn07,hTC,5000
